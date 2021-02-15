@@ -1,0 +1,19 @@
+.produitmen{
+    display: flex;
+    flex-direction:row ;
+    justify-content:center;
+    padding-left: 2%;
+    padding-right:2%;
+    
+}
+
+.OneLine{
+    display : flex;
+    justify-content: space-between;
+}
+
+.button{
+    align-Items: 'center';
+    justify-Content: 'center';
+    padding-left: 40%;
+}

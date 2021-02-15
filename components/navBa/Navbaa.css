@@ -1,0 +1,20 @@
+.nav{
+    background-color:lightgrey;
+    width: 1349px;
+    display: inline;
+    height: 10%;
+}
+.boutons{ 
+    justify-content:space-around;
+    display:inline-flex;
+    padding-left: 70%;
+    
+
+}
+
+.store{
+    padding-top: 1%;
+    padding-bottom: 1%;
+
+
+}

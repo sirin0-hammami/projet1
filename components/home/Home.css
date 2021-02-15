@@ -1,0 +1,29 @@
+.page{
+    width : 1349px ;
+    height : 1100px; 
+
+
+}
+
+.band{
+    background-color:whitesmoke;
+    justify-content: center;
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-top: 2%;
+    margin-bottom:2%;
+    width: 70%;
+    height: 200px;
+}
+
+.txt{
+    padding-top:5%;
+}
+.buy{
+    margin-left:1%;
+}
+.numberone{
+    text-align:center;
+    margin-top:1%;
+    
+}
